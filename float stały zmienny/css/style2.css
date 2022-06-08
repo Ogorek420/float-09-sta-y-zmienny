@@ -1,0 +1,57 @@
+.title {
+    background-color: rgb(98, 98, 209);
+    position: fixed;
+    width: 100%;
+    margin-bottom: 10%;
+    z-index: 10000;
+}
+.box1 {
+    float: left;
+    background-color: rgb(175, 149, 115);
+    width: 20%;
+    margin-left: 1%;
+    clear: both;
+    margin-bottom: 1%;
+    padding: 1%;
+
+}
+.box2 {
+    float: left;
+    background-color: cornflowerblue;
+    width: 20%;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    padding: 1%;
+
+}
+.box3 {
+    float: left;
+    background-color: rgb(145, 184, 82);
+    width: 20%;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    padding: 1%;
+
+}
+.box4 {
+    float: left;
+    background-color: rgb(168, 64, 64);
+    width: 20%;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    padding: 1%;
+
+}
+.buttonn {
+    bottom: 10%;
+    right: 10%;
+    position: fixed;
+    background-color: white;
+}
+
+
+.boxes {
+    position: relative;
+    top: 90px;
+    
+}
